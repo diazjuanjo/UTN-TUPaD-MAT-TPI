@@ -24,7 +24,7 @@ El software incluye validaciones para asegurar que el usuario solo ingrese datos
 
 ## **3\. ENLACE AL VIDEO EXPLICATIVO**
 
-**\[PEGAR TU ENLACE DE YOUTUBE AQUÍ EN GRANDE\]**
+**[https://www.youtube.com/watch?v=TjUU3gm5jlg](https://www.youtube.com/watch?v=TjUU3gm5jlg)**
 
 ## **4\. ANÁLISIS DE INTELIGENCIA ARTIFICIAL**
 
